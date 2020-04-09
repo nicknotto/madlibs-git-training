@@ -55,7 +55,8 @@ class MadLib(object):
     def print_result(self):
         """Print the resulting mad-lib"""
         try:
-            print(self._text.format(**self._inputs))
+            if self._inputs["complete"] == "yes":
+                print(self._text.format(**self._inputs))
         except Exception as e:
             raise AssertionError("You should run get_inputs() first!")
  

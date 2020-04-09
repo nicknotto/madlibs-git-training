@@ -6,14 +6,16 @@
         "adj3": "",
         "adj4": "",
         "plural_noun": "",
-        "noun": ""
+        "noun": "",
+        "complete": "no"
     },
     {
         "noun1": "",
         "adj1": "",
         "noun2": "",
         "verb": "",
-        "adj2": ""
+        "adj2": "",
+        "complete": "no"
     },
     {
         "plural_noun1": "",
@@ -22,7 +24,8 @@
         "adj": "",
         "adverb": "",
         "verb_ending_in_ing": "",
-        "verb": ""
+        "verb": "",
+        "complete": "no"
     },
     {
         "noun1": "",
@@ -31,7 +34,8 @@
         "plural_noun2": "",
         "adj": "",
         "plural_noun3": "",
-        "verb_ending_in_ing": ""
+        "verb_ending_in_ing": "",
+        "complete": "no"
     },
     {
         "noun1": "",
@@ -40,7 +44,8 @@
         "plural_noun1": "",
         "plural_noun2": "",
         "adj": "",
-        "plural_noun3": ""
+        "plural_noun3": "",
+        "complete": "no"
     },
     {
         "plural_noun1": "",
@@ -49,7 +54,8 @@
         "plural_noun3": "",
         "noun": "",
         "verb": "",
-        "verb_ending_in_ing2": ""
+        "verb_ending_in_ing2": "",
+        "complete": "no"
     },
     {
         "verb1": "",
@@ -59,7 +65,8 @@
         "adj2": "",
         "noun2": "",
         "verb2": "",
-        "noun3": ""
+        "noun3": "",
+        "complete": "no"
     },
     {
         "verb": "",
@@ -68,14 +75,16 @@
         "noun3": "",
         "adj1": "",
         "adj2": "",
-        "noun4": ""
+        "noun4": "",
+        "complete": "no"
     },
     {
         "noun1": "",
         "noun3": "",
         "noun4": "",
         "celebrity": "",
-        "adj": ""
+        "adj": "",
+        "complete": "no"
     },
     {
         "noun1": "",
@@ -83,7 +92,8 @@
         "verb2": "",
         "noun2": "",
         "noun3": "",
-        "noun4": ""
+        "noun4": "",
+        "complete": "no"
     },
     {
         "noun1": "",
@@ -93,7 +103,8 @@
         "verb2": "",
         "verb3": "",
         "verb_ending_in_ing": "",
-        "plural_noun2": ""
+        "plural_noun2": "",
+        "complete": "no"
     },
     {
         "noun1": "",
@@ -104,7 +115,8 @@
         "adj2": "",
         "adj3": "",
         "adj4": "",
-        "adj5": ""
+        "adj5": "",
+        "complete": "no"
     },
     {
         "adj1": "",
@@ -113,6 +125,7 @@
         "noun1": "",
         "number": "",
         "adj2": "",
-        "noun2": ""
+        "noun2": "",
+        "complete": "no"
     }
 ]
