@@ -46,7 +46,7 @@ class MadLib(object):
         # self._descriptors = dict()
  
     def get_inputs(self,num):
-        file_input = open('../input.json')
+        file_input = open('input.json')
         json_objs = json.load(file_input)
         self._inputs = json_objs[num]
         file_input.close()
