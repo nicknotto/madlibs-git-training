@@ -8,6 +8,7 @@ flake8 = "*"
 pytest = "*"
 
 [packages]
+parawrap = "*"
 
 [requires]
 python_version = "3.7"
