@@ -105,9 +105,9 @@ class TechnologyEvangelist2(MadLib):
                                "{verb_ending_in_ing1} of personnel, including top managers so that they acquire",
                                "{plural_noun2} and competencies necessary to adopt new technology or new technological",
                                "initiative. There are even instances when technology evangelism becomes an aspect of",
-                               "a {adj} position. \n\nOpen-source evangelists, on the other hand, operate {adverb}.",
+                               "a {adj} position. \n\nOpen-source evangelists, on the other hand, {verb1} independently.",
                                "Evangelists also participate in {verb_ending_in_ing} open standards. Non-professional",
-                               "technology evangelists may {verb} out of altruism or self-interest (e.g., to gain the",
+                               "technology evangelists may {verb2} out of altruism or self-interest (e.g., to gain the",
                                "benefits of early adoption or network effect).\n\n\n"])
 
 
@@ -133,11 +133,11 @@ class TheInternet2(MadLib):
         # Original source:
         # wikipedia
         self._text = " ".join(["The Internet",
-                               "\n\nThe origins of the Internet date back to the development of {noun1} switching",
-                               "and {noun2} commissioned by the United States Department of {noun3} in the 1960s to",
-                               "enable time-sharing of mainframe {plural_noun1}. The primary precursor network, the",
+                               "\n\nThe origins of the Internet date back to the development of packet switching",
+                               "and {plural_noun1} commissioned by the United States Department of {noun1} in the 1960s to",
+                               "enable time-sharing of mainframe {plural_noun2}. The primary precursor network, the",
                                "ARPANET, initially served as a backbone for interconnection of regional academic and",
-                               "military {plural_noun2} in the 1970s. The funding of the National {noun3} Foundation",
+                               "military {plural_noun3} in the 1970s. The funding of the National {noun3} Foundation",
                                "Network as a new backbone in the 1980s, as well as private funding for other commercial",
                                "extensions, led to worldwide participation in the development of new networking",
                                "technologies, and the merger of many networks. The linking of commercial networks and",
@@ -145,7 +145,7 @@ class TheInternet2(MadLib):
                                "Internet, and generated a sustained exponential growth as generations of institutional,",
                                "personal, and {adj} computers were connected to the network. Although the Internet was",
                                "widely used by academia in the 1980s, commercialization incorporated its services and",
-                               "{plural_noun3} into virtually every aspect of modern life.\n\n\n"])
+                               "{plural_noun4} into virtually every aspect of modern life.\n\n\n"])
 
 
 class AI(MadLib):
@@ -156,7 +156,7 @@ class AI(MadLib):
         self._text = " ".join(["AI",
                                "\n\nIn computer science, artificial intelligence (AI), sometimes called machine",
                                "intelligence, is intelligence demonstrated by {plural_noun1}, in contrast to the natural",
-                               "intelligence displayed by humans and {plural_noun2}. {verb_ending_in_ing1}AI",
+                               "intelligence displayed by humans and {plural_noun2}. {verb_ending_in_ing1} AI",
                                "{plural_noun3} define the field as the study of \"intelligent agents\": any device that",
                                "perceives its {noun} and takes actions that maximize its chance of successfully achieving",
                                "its goals. Colloquially, the term \"artificial intelligence\" is often used to describe",
@@ -176,7 +176,7 @@ class ReverseEngineeringOfSoftware(MadLib):
                                "at a {adj1} level of abstraction\", where the \"subject system\" is the end product of",
                                "software development. Reverse engineering is a process of examination only: the software",
                                "system under consideration is not modified (which would make it re-engineering or",
-                               "{noun_ending_in_ing}). Reverse engineering can be performed from any stage of the {noun1}",
+                               "{verb_ending_in_ing}). Reverse engineering can be performed from any stage of the {noun1}",
                                "cycle, not necessarily from the {adj2} end product. \n\nOn a related note, black {noun2}",
                                "testing in software engineering has a lot in common with reverse engineering. The tester",
                                "usually has the API, but their goals are to {verb2} bugs and undocumented features by bashing",
@@ -212,7 +212,7 @@ class BillGates(MadLib):
                                "\n\nWilliam Henry Gates III (born October 28, 1955) is an American business {noun1}, software",
                                "developer, investor, and philanthropist. He is best known as the co-founder of Microsoft",
                                "Corporation. During his career at Microsoft, Gates held the positions of chairman, chief",
-                               "executive (noun2), president and chief software {noun3}, while also being the largest",
+                               "executive {noun2}, president and chief software {noun3}, while also being the largest",
                                "individual {noun4} until May 2014. He is one of the best-known entrepreneurs and pioneers of",
                                "the microcomputer revolution of the 1970s and 1980s.\n\nBorn and raised in Seattle,",
                                "Washington, Gates co-founded Microsoft with childhood friend {celebrity} in 1975 in",
@@ -226,15 +226,15 @@ class InternetTroll(MadLib):
         # Original source:
         # wikipedia
         self._text = " ".join(["Internet Troll",
-                               "\n\nIn Internet slang, a troll is a {noun1} who starts quarrels or {verb1} people on the",
+                               "\n\nIn Internet slang, a troll is a {noun1} who starts quarrels or {verb_ending_in_s} people on the",
                                "Internet to {verb2} and sow discord by posting inflammatory and digressive, extraneous, or",
                                "off-topic messages in an online community (such as a newsgroup, forum, chat room, or blog)",
-                               "with the intent of provoking {noun2} into displaying emotional responses and normalizing",
+                               "with the intent of provoking {plural_noun} into displaying emotional responses and normalizing",
                                "tangential discussion, whether for the troll's amusement or a specific gain.\n\nBoth the noun",
                                "and the verb forms of \"troll\" are associated with Internet discourse. However, the word",
                                "has also been used more widely. Media attention in recent years has equated trolling with",
                                "{noun3} harassment. For example, the mass media have used \"troll\" to mean \"a person who",
-                               "defaces Internet tribute sites with the aim of causing grief to {noun4}\".\n\n\n"])
+                               "defaces Internet tribute sites with the aim of causing grief to {plural_noun2}\".\n\n\n"])
 
 
 class Bitcoin(MadLib):
